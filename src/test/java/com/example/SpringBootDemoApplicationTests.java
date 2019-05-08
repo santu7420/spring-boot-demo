@@ -12,7 +12,7 @@ public class SpringBootDemoApplicationTests {
 	public void contextLoads() {
 		SpringBootDemoApplication.main( new String[]{} );
 	}
-
+//comment bla bla
 	@Test
 	public void controllerTest() {
 		HelloController helloController=new HelloController();
